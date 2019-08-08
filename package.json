@@ -1,0 +1,12 @@
+{
+  "name": "npc",
+  "version": "0.1.0",
+  "description": "Networking Parameters Container",
+  "homepage": "https://github.com/DanielGiljam/npc#readme",
+  "bugs": "https://github.com/DanielGiljam/npc/issues",
+  "license": "GPL-3.0",
+  "private": true,
+  "author": "Daniel Giljam",
+  "main": "index.js",
+  "repository": "github:DanielGiljam/npc"
+}
