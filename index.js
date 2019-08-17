@@ -33,7 +33,7 @@ NPC.presets = {
 }
 
 NPC.getErrorMessage = function getErrorMessage(argName, argValue) {
-    return `\`${argName}\` argument must be of type \`string\`! Got type \`${typeof argValue}\`.`
+    return `Argument passed to \`${argName}\` parameter must be of type \`string\`! Got type \`${typeof argValue}\`.`
 }
 
 NPC.transformCase = function transformCase(string) {
